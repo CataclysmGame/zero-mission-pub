@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8274016858528805422
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 540133364773176536, guid: cb7b28e1a454ebd4bb76eebb366c6dba, type: 3}
+      propertyPath: canDropGa
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 540133364773176537, guid: cb7b28e1a454ebd4bb76eebb366c6dba, type: 3}
+      propertyPath: m_Name
+      value: EndlessRandomPowerUp
+      objectReference: {fileID: 0}
+    - target: {fileID: 540133364773176539, guid: cb7b28e1a454ebd4bb76eebb366c6dba, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 540133364773176539, guid: cb7b28e1a454ebd4bb76eebb366c6dba, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 540133364773176539, guid: cb7b28e1a454ebd4bb76eebb366c6dba, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 540133364773176539, guid: cb7b28e1a454ebd4bb76eebb366c6dba, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 540133364773176539, guid: cb7b28e1a454ebd4bb76eebb366c6dba, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 540133364773176539, guid: cb7b28e1a454ebd4bb76eebb366c6dba, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 540133364773176539, guid: cb7b28e1a454ebd4bb76eebb366c6dba, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 540133364773176539, guid: cb7b28e1a454ebd4bb76eebb366c6dba, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 540133364773176539, guid: cb7b28e1a454ebd4bb76eebb366c6dba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 540133364773176539, guid: cb7b28e1a454ebd4bb76eebb366c6dba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 540133364773176539, guid: cb7b28e1a454ebd4bb76eebb366c6dba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 540133364773176536, guid: cb7b28e1a454ebd4bb76eebb366c6dba, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: cb7b28e1a454ebd4bb76eebb366c6dba, type: 3}
+--- !u!82 &5430324879700847416 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: -5075743927949387498, guid: cb7b28e1a454ebd4bb76eebb366c6dba, type: 3}
+  m_PrefabInstance: {fileID: 8274016858528805422}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8479651446446864119 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 540133364773176537, guid: cb7b28e1a454ebd4bb76eebb366c6dba, type: 3}
+  m_PrefabInstance: {fileID: 8274016858528805422}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &8727551942460854789
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8479651446446864119}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 616fc2aa61568c7428e3c98a7287f0ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dropType: 1
+  value: 10
+  powerUpType: 0
+  randomizePowerUp: 1
+  canDropGa: 1
+  pickupEffect: {fileID: 0}
+  audioSource: {fileID: 5430324879700847416}
+  pickupClip: {fileID: 8300000, guid: 87399f410fae0411d92eb690068eacb9, type: 3}
+  _dropsPool:
+  - powerUpType: 0
+    weight: 0.277
+  - powerUpType: 1
+    weight: 0.127
+  - powerUpType: 2
+    weight: 0.124
+  - powerUpType: 11
+    weight: 0.209
+  - powerUpType: 4
+    weight: 0.278
+  - powerUpType: 5
+    weight: 0.282
+  - powerUpType: 8
+    weight: 0.361
+  - powerUpType: 9
+    weight: 0.298
+  - powerUpType: 10
+    weight: 0.424
+  - powerUpType: 6
+    weight: 0.116

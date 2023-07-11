@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8431d5b0a685473d83795d7a28c6e22, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  id: default
+  playerName: Hero
+  maxHp: 100
+  maxMunitions: 5
+  movementSpeed: 5
+  shootInterval: 0.5
+  reloadInterval: 0.5
+  lifeSteal: 0
+  damage: 10
+  hpCap: 220
+  munitionsCap: 15
+  movementSpeedCap: 8
+  lifeStealCap: 0.1
+  shootIntervalCap: 0.1
+  reloadIntervalCap: 0.1
+  characterDescription: 
+  avatar: {fileID: 2800000, guid: 75c3a8e446a7b489c8aac0b6be17e506, type: 3}
+  skins: []

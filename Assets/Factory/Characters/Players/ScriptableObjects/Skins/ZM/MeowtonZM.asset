@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fae5aeab1c94c4241b087756d2d28b9f, type: 3}
+  m_Name: MeowtonZM
+  m_EditorClassIdentifier: 
+  id: zm
+  displayName: Zero Mission Meowton
+  description: 
+  splashArt: {fileID: 2800000, guid: 24726e0934aed23479594e6941e191a3, type: 3}
+  avatar: {fileID: 2800000, guid: b7273b5d464ed89e29ae3fea11f929b9, type: 3}
+  inGameAvatar: {fileID: 2800000, guid: e3a4ad9f611a93d42bda5e34b6338a5f, type: 3}
+  atlas: {fileID: 2800000, guid: 528f6a1cb6a0a23449c56872e64c9c6e, type: 3}
+  glow: {fileID: 2800000, guid: e471edca28c94a744ab3902ca24e8b21, type: 3}
+  runGlow: {fileID: 2800000, guid: 2b72920ead691394592b97c3c939d52a, type: 3}

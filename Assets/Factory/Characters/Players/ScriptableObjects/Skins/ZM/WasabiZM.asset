@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fae5aeab1c94c4241b087756d2d28b9f, type: 3}
+  m_Name: WasabiZM
+  m_EditorClassIdentifier: 
+  id: zm
+  displayName: Zero Mission Wasabi
+  description: 
+  splashArt: {fileID: 2800000, guid: f16dd0455019fe64bbb69ad50f411f8b, type: 3}
+  avatar: {fileID: 2800000, guid: 1b089d85914f848a4b1e47fc1b6138c8, type: 3}
+  inGameAvatar: {fileID: 2800000, guid: 6102b149c06beb34489c98131f746cc1, type: 3}
+  atlas: {fileID: 2800000, guid: bf0bb0d17cbfb6d40bc9a87e42ce3494, type: 3}
+  glow: {fileID: 2800000, guid: 8d33eca0adcc849478d08d70edd2b2ff, type: 3}
+  runGlow: {fileID: 2800000, guid: dc080235db5222440aadc1c6fea293b2, type: 3}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8431d5b0a685473d83795d7a28c6e22, type: 3}
+  m_Name: Hammer
+  m_EditorClassIdentifier: 
+  id: hammer
+  playerName: Hammer
+  maxHp: 350
+  maxMunitions: 11
+  movementSpeed: 3.5
+  shootInterval: 0.5
+  reloadInterval: 0.5
+  lifeSteal: 0
+  damage: 14
+  hpCap: 500
+  munitionsCap: 20
+  movementSpeedCap: 6
+  lifeStealCap: 0
+  shootIntervalCap: 0.1
+  reloadIntervalCap: 0.1
+  characterDescription: The vigorous Worker
+  avatar: {fileID: 2800000, guid: ebbf6d73fdd95c2b69ad6014c85ffb2e, type: 3}
+  skins:
+  - {fileID: 11400000, guid: 06e09cf604820f44bafc5643d2473c1a, type: 2}
+  - {fileID: 11400000, guid: fc1c393380613d84b9938e86910df076, type: 2}

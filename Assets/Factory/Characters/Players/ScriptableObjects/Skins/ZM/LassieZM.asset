@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fae5aeab1c94c4241b087756d2d28b9f, type: 3}
+  m_Name: LassieZM
+  m_EditorClassIdentifier: 
+  id: zm
+  displayName: Zero Mission Lassie
+  description: 
+  splashArt: {fileID: 2800000, guid: 0d34e1cc68f4a4140bb96909761589aa, type: 3}
+  avatar: {fileID: 2800000, guid: 4d0fbc41726b3b1ada24c25292c75be9, type: 3}
+  inGameAvatar: {fileID: 2800000, guid: 3cac78fac07c7fb43a8b82457dd1f0a4, type: 3}
+  atlas: {fileID: 2800000, guid: a2c709c127f422e408fe5aa4f5f0efa2, type: 3}
+  glow: {fileID: 2800000, guid: 78a2ce7e68b63094386df83aac6645f2, type: 3}
+  runGlow: {fileID: 2800000, guid: 4ae7fd3b33b08724285c5f2a054de57e, type: 3}

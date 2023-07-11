@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fae5aeab1c94c4241b087756d2d28b9f, type: 3}
+  m_Name: WorkerGuido
+  m_EditorClassIdentifier: 
+  id: worker-guido
+  displayName: Guido
+  description: 
+  splashArt: {fileID: 0}
+  avatar: {fileID: 0}
+  atlas: {fileID: 2800000, guid: 886ce1a1d5c379d678a86d4fa7c302ce, type: 3}

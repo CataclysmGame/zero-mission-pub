@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fae5aeab1c94c4241b087756d2d28b9f, type: 3}
+  m_Name: VyperZM
+  m_EditorClassIdentifier: 
+  id: zm
+  displayName: Zero Mission Vyper
+  description: 
+  splashArt: {fileID: 2800000, guid: 0691b1925e8e9f34198c6bf58568030e, type: 3}
+  avatar: {fileID: 2800000, guid: 2b60cf5dda674d35fb3a0426132d52d6, type: 3}
+  inGameAvatar: {fileID: 2800000, guid: ab265d8bc02fce2439c3c5faf80e43c2, type: 3}
+  atlas: {fileID: 2800000, guid: 5f25031275003f24e932b5f201c35dc5, type: 3}
+  glow: {fileID: 2800000, guid: 278314c785f0dad41a1e08423f1495c6, type: 3}
+  runGlow: {fileID: 2800000, guid: 3f7e8dadfb6f2684480797ede65f73ce, type: 3}

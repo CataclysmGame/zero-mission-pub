@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fae5aeab1c94c4241b087756d2d28b9f, type: 3}
+  m_Name: HammerZM
+  m_EditorClassIdentifier: 
+  id: zm
+  displayName: Zero Mission Hammer
+  description: 
+  splashArt: {fileID: 2800000, guid: eb7278bdb40b0bd47af2fad61768551d, type: 3}
+  avatar: {fileID: 2800000, guid: 4bd44b313e19241a783c10a8930d3a5a, type: 3}
+  inGameAvatar: {fileID: 2800000, guid: 656dac24139a26e4f8412051d250965c, type: 3}
+  atlas: {fileID: 2800000, guid: f6e23f52e0e6ad142a0e47b5cf72dfe9, type: 3}
+  glow: {fileID: 2800000, guid: 433bb2adefb0dad4f86eb06fdb9dbfe4, type: 3}
+  runGlow: {fileID: 2800000, guid: 479aefcb06f3c2744aa5624c9d15403d, type: 3}

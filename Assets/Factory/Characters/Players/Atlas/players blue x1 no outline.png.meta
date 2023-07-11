@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 4e59148f360307644bfbecef9bf005b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5367363378607215016
+    second: players blue x1 no outline_0
+  - first:
+      213: 5751016613956813659
+    second: players blue x1 no outline_1
+  - first:
+      213: -4966262143861218597
+    second: players blue x1 no outline_2
+  - first:
+      213: -6810810076416778536
+    second: players blue x1 no outline_3
+  - first:
+      213: 7828650540185906083
+    second: players blue x1 no outline_4
+  - first:
+      213: 8679575180873764082
+    second: players blue x1 no outline_5
+  - first:
+      213: 4741434583261531114
+    second: players blue x1 no outline_6
+  - first:
+      213: -1583571517054459945
+    second: players blue x1 no outline_7
+  - first:
+      213: 4661412170709689641
+    second: players blue x1 no outline_8
+  - first:
+      213: -8705458620268003702
+    second: players blue x1 no outline_9
+  - first:
+      213: -1857698776373042758
+    second: players blue x1 no outline_10
+  - first:
+      213: -5223559437557733827
+    second: players blue x1 no outline_11
+  - first:
+      213: 4819307953104895987
+    second: players blue x1 no outline_12
+  - first:
+      213: -4376226965163909595
+    second: players blue x1 no outline_13
+  - first:
+      213: 8495775625549390208
+    second: players blue x1 no outline_14
+  - first:
+      213: 6584851355705067430
+    second: players blue x1 no outline_15
+  - first:
+      213: 5994495784826090612
+    second: players blue x1 no outline_16
+  - first:
+      213: -4997102310718206131
+    second: players blue x1 no outline_17
+  - first:
+      213: -6359254300182552656
+    second: players blue x1 no outline_18
+  - first:
+      213: 4295475045884520239
+    second: players blue x1 no outline_19
+  - first:
+      213: -3868503767526866565
+    second: players blue x1 no outline_20
+  - first:
+      213: 6222582275800349204
+    second: players blue x1 no outline_21
+  - first:
+      213: 6323823430389559323
+    second: players blue x1 no outline_22
+  - first:
+      213: 2402789856677024691
+    second: players blue x1 no outline_23
+  - first:
+      213: -6634991416063158217
+    second: players blue x1 no outline_24
+  - first:
+      213: 7445300114333712696
+    second: players blue x1 no outline_25
+  - first:
+      213: 7435491195730516703
+    second: players blue x1 no outline_26
+  - first:
+      213: -5361369487250660449
+    second: players blue x1 no outline_27
+  - first:
+      213: 6636598628002560977
+    second: players blue x1 no outline_28
+  - first:
+      213: 2066742882945869299
+    second: players blue x1 no outline_29
+  - first:
+      213: 5490429404110994725
+    second: players blue x1 no outline_30
+  - first:
+      213: 9046101817799310259
+    second: players blue x1 no outline_31
+  - first:
+      213: -4619018478406683215
+    second: players blue x1 no outline_32
+  - first:
+      213: -4198274738486915121
+    second: players blue x1 no outline_33
+  - first:
+      213: -5085400760246899890
+    second: players blue x1 no outline_34
+  - first:
+      213: -275785489548372166
+    second: players blue x1 no outline_35
+  - first:
+      213: 2749955421670731591
+    second: players blue x1 no outline_36
+  - first:
+      213: -1050163356582826306
+    second: players blue x1 no outline_37
+  - first:
+      213: -4497429173852867722
+    second: players blue x1 no outline_38
+  - first:
+      213: 3505427654564998587
+    second: players blue x1 no outline_39
+  - first:
+      213: 4660327606577671794
+    second: players blue x1 no outline_40
+  - first:
+      213: 3269999049098894386
+    second: players blue x1 no outline_41
+  - first:
+      213: 594891167963117179
+    second: players blue x1 no outline_42
+  - first:
+      213: -2912461074199821115
+    second: players blue x1 no outline_43
+  - first:
+      213: 7623128874245212361
+    second: players blue x1 no outline_44
+  - first:
+      213: 8367745016898186016
+    second: players blue x1 no outline_45
+  - first:
+      213: -1519067283404128825
+    second: players blue x1 no outline_46
+  - first:
+      213: -5357428059378059344
+    second: players blue x1 no outline_47
+  - first:
+      213: 4136323751807584544
+    second: players blue x1 no outline_48
+  - first:
+      213: 8641881978711890777
+    second: players blue x1 no outline_49
+  - first:
+      213: 1481190737547654605
+    second: players blue x1 no outline_50
+  - first:
+      213: -5140627358946981894
+    second: players blue x1 no outline_51
+  - first:
+      213: 6648662189062302568
+    second: players blue x1 no outline_52
+  - first:
+      213: 7247445250874006632
+    second: players blue x1 no outline_53
+  - first:
+      213: 7235009710914678650
+    second: players blue x1 no outline_54
+  - first:
+      213: -6173439782682668001
+    second: players blue x1 no outline_55
+  - first:
+      213: -1897386932090537814
+    second: players blue x1 no outline_56
+  - first:
+      213: 3615177444211289940
+    second: players blue x1 no outline_57
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: players blue x1 no outline_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1d25a2e84bc7a40800000000000000
+      internalID: 5367363378607215016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b530444e327bfcf40800000000000000
+      internalID: 5751016613956813659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2aead74ea441bb0800000000000000
+      internalID: -4966262143861218597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ded68a12542b71a0800000000000000
+      internalID: -6810810076416778536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab63763034f4ac60800000000000000
+      internalID: 7828650540185906083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc074104ab047870800000000000000
+      internalID: 8679575180873764082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb4e0dd1a5fcc140800000000000000
+      internalID: 4741434583261531114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfda896816060ae0800000000000000
+      internalID: -1583571517054459945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92565da0ca9a0b040800000000000000
+      internalID: 4661412170709689641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e3014228fff2780800000000000000
+      internalID: -8705458620268003702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab16b9e2ec02836e0800000000000000
+      internalID: -1857698776373042758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d366b3dfd503287b0800000000000000
+      internalID: -5223559437557733827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff3800bc0f91e240800000000000000
+      internalID: 4819307953104895987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e5bece2c48443c0800000000000000
+      internalID: -4376226965163909595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0812b4c3bee07e570800000000000000
+      internalID: 8495775625549390208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7cc838b67126b50800000000000000
+      internalID: 6584851355705067430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474b226f72ab03350800000000000000
+      internalID: 5994495784826090612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f8b579ce9b6aab0800000000000000
+      internalID: -4997102310718206131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf5e3128e36fb7a0800000000000000
+      internalID: -6359254300182552656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27608bbbc79c9b30800000000000000
+      internalID: 4295475045884520239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b710d44d150505ac0800000000000000
+      internalID: -3868503767526866565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ab8b67c9d0b5650800000000000000
+      internalID: 6222582275800349204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1079a6a7ebb2c750800000000000000
+      internalID: 6323823430389559323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b35525e4ac685120800000000000000
+      internalID: 2402789856677024691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7381ac5f576cbe3a0800000000000000
+      internalID: -6634991416063158217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8314901d105035760800000000000000
+      internalID: 7445300114333712696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdadf0cf8db203760800000000000000
+      internalID: 7435491195730516703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f936eca6bd69895b0800000000000000
+      internalID: -5361369487250660449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: players blue x1 no outline_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbffea3a4fe91c50800000000000000
+      internalID: 6636598628002560977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      players blue x1 no outline_27: -5361369487250660449
+      players blue x1 no outline_0: 5367363378607215016
+      players blue x1 no outline_17: -4997102310718206131
+      players blue x1 no outline_10: -1857698776373042758
+      players blue x1 no outline_1: 5751016613956813659
+      players blue x1 no outline_9: -8705458620268003702
+      players blue x1 no outline_26: 7435491195730516703
+      players blue x1 no outline_23: 2402789856677024691
+      players blue x1 no outline_22: 6323823430389559323
+      players blue x1 no outline_21: 6222582275800349204
+      players blue x1 no outline_15: 6584851355705067430
+      players blue x1 no outline_5: 8679575180873764082
+      players blue x1 no outline_20: -3868503767526866565
+      players blue x1 no outline_6: 4741434583261531114
+      players blue x1 no outline_19: 4295475045884520239
+      players blue x1 no outline_28: 6636598628002560977
+      players blue x1 no outline_11: -5223559437557733827
+      players blue x1 no outline_12: 4819307953104895987
+      players blue x1 no outline_24: -6634991416063158217
+      players blue x1 no outline_2: -4966262143861218597
+      players blue x1 no outline_7: -1583571517054459945
+      players blue x1 no outline_3: -6810810076416778536
+      players blue x1 no outline_4: 7828650540185906083
+      players blue x1 no outline_13: -4376226965163909595
+      players blue x1 no outline_14: 8495775625549390208
+      players blue x1 no outline_18: -6359254300182552656
+      players blue x1 no outline_25: 7445300114333712696
+      players blue x1 no outline_16: 5994495784826090612
+      players blue x1 no outline_8: 4661412170709689641
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

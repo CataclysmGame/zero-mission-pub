@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8431d5b0a685473d83795d7a28c6e22, type: 3}
+  m_Name: Vyper
+  m_EditorClassIdentifier: 
+  id: vyper
+  playerName: Vyper
+  maxHp: 200
+  maxMunitions: 5
+  movementSpeed: 5
+  shootInterval: 0.5
+  reloadInterval: 0.5
+  lifeSteal: 0
+  damage: 22
+  hpCap: 500
+  munitionsCap: 20
+  movementSpeedCap: 7.5
+  lifeStealCap: 0
+  shootIntervalCap: 0.1
+  reloadIntervalCap: 0.1
+  characterDescription: The tech-savvy Hacker
+  avatar: {fileID: 2800000, guid: d2d5f5b0dba3ebd57a67185f6fc18dc2, type: 3}
+  skins:
+  - {fileID: 11400000, guid: 8fbee3912e8b318499e4c102793d696c, type: 2}
+  - {fileID: 11400000, guid: 1852600144761be46be5a6302cda9db2, type: 2}

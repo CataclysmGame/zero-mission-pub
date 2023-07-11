@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8431d5b0a685473d83795d7a28c6e22, type: 3}
+  m_Name: Meowton
+  m_EditorClassIdentifier: 
+  id: meowton
+  playerName: Meowton
+  maxHp: 250
+  maxMunitions: 7
+  movementSpeed: 4.5
+  shootInterval: 0.5
+  reloadInterval: 0.5
+  lifeSteal: 0
+  damage: 19
+  hpCap: 500
+  munitionsCap: 20
+  movementSpeedCap: 7
+  lifeStealCap: 0
+  shootIntervalCap: 0.1
+  reloadIntervalCap: 0.1
+  characterDescription: The versatile Scientist
+  avatar: {fileID: 2800000, guid: 1fd62935a218eb2adb83659155c526bc, type: 3}
+  skins:
+  - {fileID: 11400000, guid: 63e60276219380142bfde051d3ed21d6, type: 2}
+  - {fileID: 11400000, guid: c16ce2aeb253aaf4cb982dff3702bcd5, type: 2}
